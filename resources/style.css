@@ -1,0 +1,34 @@
+body{font-family: helvetica;
+    text-align: center;
+  }
+
+#pagetop{background-image: url("images/the-flatiron-building.png");
+        color: white;
+        }
+
+
+h1{font-size: 70px;
+  }
+
+h2{font-size: 32px;
+  }
+
+h3{font-size: 23px;
+  }
+
+h4{font-size: 18px;
+  }
+
+h5{font-size: 14px;
+  }
+
+h6{font-size: 11px;
+
+  background-color: dimgray;
+  color:white;
+  text-align: left;
+  }
+
+  #NewYork{color: white;
+          background-image: url("images/the-flatiron-building.png");
+          }
